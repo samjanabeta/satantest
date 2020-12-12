@@ -1,6 +1,6 @@
 # SATAN-EVIL
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IMPERIALELITEX/SATAN/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samjanabeta/satantest/tree/master)
 
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
