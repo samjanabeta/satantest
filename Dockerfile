@@ -64,8 +64,8 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/Zeltrax-Group-Bot
-RUN git clone https://github.com/IMPERIALELITEX/SATAN /root/SATAN-Group-Bot
+# Copy Python Requirements to /root/SATAN-Group-Bot
+RUN git clone https://github.com/samajanabeta/satantest /root/SATAN-Group-Bot
 WORKDIR /root/SATAN-Group-Bot
 
 #Copy config file to /root/SATAN-Group-Bot/SATAN
